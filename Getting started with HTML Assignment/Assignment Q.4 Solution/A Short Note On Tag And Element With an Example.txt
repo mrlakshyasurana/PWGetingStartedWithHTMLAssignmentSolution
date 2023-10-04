@@ -1,0 +1,23 @@
+Write a short note on tag and element with an example.
+
+Ans:
+Tag:
+(1)An HTML tag is made up of letters, words, and numbers.It is a snippet of code enclosed within angular brackets("<" ">")
+that defines the  the purpose and structure of a specific element on a webpage. Tags are used to instruct the web browser how to display the content they enclose. Tags usually come in pairs: an opening tag and a closing tag, with the name of the 
+element enclosed within the tags.
+
+Example: <h1> This is a h1 tag. </h1>
+
+In this example, <h1> is the opening tag, and </h1> is the closing tag. The content "This is a h1 tag." is the 
+text within the paragraph element.
+
+
+Element:
+
+(2)A combination of opening and closing tag along with some content between the two tags forms an element.
+(3)An HTML element may be empty or can have some attributes to specify the additional formatting and publishing instuctions.
+
+Example: <h1> This is a h1 tag. </h1>
+
+In this example, <h1> is the opening tag, "This is a h1  tag." is the content, and </h1> is the closing tag. 
+Together, they form the complete <h1> element, representing a heading.
