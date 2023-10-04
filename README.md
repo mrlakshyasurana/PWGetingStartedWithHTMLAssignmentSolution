@@ -1,2 +1,2 @@
 # PWGetingStartedWithHTMLAssignmentSolution
-I am pursuing Full Stack Web Development  Course of Physics Wallah(PW). This is my first assignment of this course.
+This is the solution of Getting Started With HTML Assignment given by Physics Wallah.
